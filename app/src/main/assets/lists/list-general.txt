@@ -126,3 +126,8 @@ a.web.telegram.org
 k.web.telegram.org
 z.web.telegram.org
 tg.dev
+workupload.com
+://workupload.com
+pixeldrain.com
+://pixeldrain.com
+pd.cybar.xyz
